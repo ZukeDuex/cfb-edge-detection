@@ -1,0 +1,14 @@
+season,week,opponent,opponent_tier,is_home_game,predicted_point_differential,predicted_win,predicted_win_probability,actual_point_differential,actual_win,prediction_error,win_prediction_correct
+2024,1,Chattanooga,FCS,True,43.1,True,1.0,66,True,22.9,True
+2024,1,Ohio State,Elite,False,-16.68,False,0.2,-25,False,8.32,True
+2024,2,NC State,Average,False,37.17,True,0.95,41,True,3.8299999999999983,True
+2024,3,Kent State,Weak,True,50.21,True,1.0,71,True,20.79,True
+2024,4,Oklahoma,Strong,False,6.6,True,0.84,10,True,3.4000000000000004,True
+2024,6,Arkansas,Average,False,-11.89,False,0.24,-5,False,6.890000000000001,True
+2024,7,Florida,Strong,True,5.47,True,0.92,6,True,0.5300000000000002,True
+2024,8,Alabama,Elite,True,17.08,True,0.85,7,True,10.079999999999998,True
+2024,10,Kentucky,Average,True,19.83,True,0.91,10,True,9.829999999999998,True
+2024,11,Mississippi State,Average,True,22.07,True,0.9,19,True,3.0700000000000003,True
+2024,12,Georgia,Elite,False,-17.74,False,0.05,-14,False,3.7399999999999984,True
+2024,13,UTEP,Weak,True,48.69,True,0.93,56,True,7.310000000000002,True
+2024,14,Vanderbilt,Weak,False,48.13,True,0.88,13,True,35.13,True

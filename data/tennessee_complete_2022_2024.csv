@@ -1,0 +1,40 @@
+game_id,season,week,home_team,away_team,home_points,away_points,completed,venue,tennessee_spread,tennessee_spread_price,tennessee_spread_book,tennessee_moneyline,ml_book,tennessee_won,tennessee_covered,total_over
+401403864,2022,1,Tennessee,Ball State,59,10,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401442019,2022,1,Clemson,Tennessee,14,31,True,Hard Rock Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401403877,2022,2,Pittsburgh,Tennessee,27,34,True,Acrisure Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401403889,2022,3,Tennessee,Akron,63,6,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401403901,2022,4,Tennessee,Florida,38,33,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,False,False
+401403913,2022,6,LSU,Tennessee,13,40,True,Tiger Stadium (LA),6.5,-110,BetMGM,200,BetMGM,True,True,False
+401403921,2022,7,Tennessee,Alabama,52,49,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,False,False
+401403926,2022,8,Tennessee,UT Martin,65,24,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401403930,2022,9,Tennessee,Kentucky,44,6,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401403933,2022,10,Georgia,Tennessee,27,13,True,Sanford Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401403945,2022,11,Tennessee,Missouri,66,24,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401403953,2022,12,South Carolina,Tennessee,63,38,True,Williams-Brice Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401403964,2022,13,Vanderbilt,Tennessee,0,56,True,FirstBank Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520179,2023,1,Tennessee,Virginia,49,13,True,Nissan Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401551780,2023,1,Tennessee,Iowa,35,0,True,Camping World Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520213,2023,2,Tennessee,Austin Peay,30,13,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520224,2023,3,Florida,Tennessee,29,16,True,Ben Hill Griffin Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401520269,2023,4,Tennessee,UTSA,45,14,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520291,2023,5,Tennessee,South Carolina,41,20,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520326,2023,7,Tennessee,Texas A&M,20,13,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520333,2023,8,Alabama,Tennessee,34,20,True,Bryant-Denny Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401520353,2023,9,Kentucky,Tennessee,27,33,True,Kroger Field,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520377,2023,10,Tennessee,UConn,59,3,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401520391,2023,11,Missouri,Tennessee,36,7,True,Memorial Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401520419,2023,12,Tennessee,Georgia,10,38,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401520442,2023,13,Tennessee,Vanderbilt,48,24,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628330,2024,1,Tennessee,Chattanooga,69,3,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401677177,2024,1,Ohio State,Tennessee,42,17,True,Ohio Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401628346,2024,2,NC State,Tennessee,10,51,True,Bank of America Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628360,2024,3,Tennessee,Kent State,71,0,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628369,2024,4,Oklahoma,Tennessee,15,25,True,"Memorial Stadium (Norman, OK)",6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628379,2024,6,Arkansas,Tennessee,19,14,True,Razorback Stadium,6.5,-110,BetMGM,200,BetMGM,False,True,False
+401628391,2024,7,Tennessee,Florida,23,17,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,False,False
+401628397,2024,8,Tennessee,Alabama,24,17,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628412,2024,10,Tennessee,Kentucky,28,18,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628416,2024,11,Tennessee,Mississippi State,33,14,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628421,2024,12,Georgia,Tennessee,31,17,True,Sanford Stadium,6.5,-110,BetMGM,200,BetMGM,False,False,False
+401628435,2024,13,Tennessee,UTEP,56,0,True,Neyland Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
+401628446,2024,14,Vanderbilt,Tennessee,23,36,True,FirstBank Stadium,6.5,-110,BetMGM,200,BetMGM,True,True,False
