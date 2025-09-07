@@ -14,10 +14,10 @@ A production-grade platform to find and backtest profitable college football bet
 poetry install
 ```
 
-2. Set up environment variables:
+2. Set up environment variables by copying the example file:
 ```bash
 cp .env.example .env
-# Edit .env with your API keys
+# Then edit .env with your API keys
 ```
 
 3. Run the platform:
