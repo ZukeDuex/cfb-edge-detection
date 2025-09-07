@@ -41,7 +41,7 @@ build-backend = "poetry.core.masonry.api"
 target-version = "py311"
 line-length = 88
 select = ["E", "F", "W", "C90", "I", "N", "UP", "YTT", "S", "BLE", "FBT", "B", "A", "COM", "C4", "DTZ", "T10", "EM", "EXE", "FA", "ISC", "ICN", "G", "INP", "PIE", "T20", "PYI", "PT", "Q", "RSE", "RET", "SLF", "SLOT", "SIM", "TID", "TCH", "INT", "ARG", "PTH", "TD", "FIX", "ERA", "PD", "PGH", "PL", "TRY", "FLY", "NPY", "AIR", "PERF", "FURB", "LOG", "RUF"]
-ignore = ["E501", "W503", "S101", "PLR2004", "PLR0913", "PLR0912", "PLR0915"]
+ignore = ["E501", "S101", "PLR2004", "PLR0913", "PLR0912", "PLR0915"]
 
 [tool.black]
 line-length = 88
