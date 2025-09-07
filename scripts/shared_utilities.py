@@ -46,6 +46,23 @@ class CFBDataUtils:
             'homePostgameWinProbability', 'awayPostgameWinProbability', 'excitementIndex',
             'is_early_season', 'is_mid_season', 'is_late_season', 'is_postseason'
         ]
+    
+    @staticmethod
+    def validate_data_quality(df: pd.DataFrame) -> Dict[str, Any]:
+        """Validate data quality and return issues"""
+        issues = {}
+        
+        # Check for missing values
+        missing_counts = df.isnull().sum()
+        if missing_counts.any():
+            issues['missing_values'] = missing_counts[missing_counts > 0].to_dict()
+        
+        # Check for duplicate rows
+        duplicates = df.duplicated().sum()
+        if duplicates > 0:
+            issues['duplicates'] = duplicates
+        
+        return issues
 
 class BettingStrategyConfig:
     """Configurable betting strategy parameters"""
@@ -61,3 +78,21 @@ class BettingStrategyConfig:
             for key, value in config_dict.items():
                 if hasattr(self, key):
                     setattr(self, key, value)
+    
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert config to dictionary"""
+        return {
+            'min_edge_points': self.min_edge_points,
+            'bet_amount': self.bet_amount,
+            'min_confidence': self.min_confidence,
+            'max_bet_percentage': self.max_bet_percentage,
+            'max_daily_bets': self.max_daily_bets
+        }
+    
+    @classmethod
+    def load_config(cls, file_path: str):
+        """Load configuration from file"""
+        import json
+        with open(file_path, 'r') as f:
+            config_dict = json.load(f)
+        return cls(config_dict)
