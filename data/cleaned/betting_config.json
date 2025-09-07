@@ -1,0 +1,8 @@
+{
+  "min_edge_points": 3.0,
+  "bet_amount": 100,
+  "min_confidence": 0.6,
+  "max_bet_percentage": 0.1,
+  "max_daily_bets": 5,
+  "description": "Configurable betting strategy parameters"
+}

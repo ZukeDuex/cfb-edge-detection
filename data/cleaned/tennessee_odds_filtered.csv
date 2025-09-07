@@ -1,0 +1,1015 @@
+game_id,home_team,away_team,market,book,outcome,price,point,fetched_at
+401403864,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:04.694732
+401403864,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:04.694746
+401403864,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:04.694750
+401403864,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:04.694752
+401403864,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:04.694757
+401403864,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:04.694760
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:04.694768
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:04.694771
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:04.694773
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:04.694775
+401403864,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:05.092682
+401403864,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:05.092695
+401403864,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:05.092698
+401403864,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:05.092699
+401403864,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:05.092700
+401403864,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:05.092702
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:05.092705
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:05.092707
+401403864,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:05.545873
+401403864,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:05.545891
+401403864,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:05.545896
+401403864,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:05.545897
+401403864,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:05.545900
+401403864,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:05.545902
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:05.545915
+401403864,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:05.545917
+401442019,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:05.975449
+401442019,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:05.975458
+401442019,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:05.975460
+401442019,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:05.975462
+401442019,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:05.975463
+401442019,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:05.975464
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:05.975468
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:05.975469
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:05.975470
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:05.975471
+401442019,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:06.422963
+401442019,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:06.422978
+401442019,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:06.422981
+401442019,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:06.422982
+401442019,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:06.422984
+401442019,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:06.422985
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:06.422988
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:06.422989
+401442019,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:06.884303
+401442019,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:06.884317
+401442019,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:06.884319
+401442019,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:06.884321
+401442019,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:06.884322
+401442019,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:06.884323
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:06.884327
+401442019,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:06.884329
+401403877,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:07.328811
+401403877,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:07.328827
+401403877,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:07.328829
+401403877,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:07.328831
+401403877,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:07.328832
+401403877,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:07.328834
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:07.328838
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:07.328839
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:07.328840
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:07.328842
+401403877,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:07.757109
+401403877,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:07.757124
+401403877,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:07.757126
+401403877,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:07.757127
+401403877,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:07.757129
+401403877,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:07.757130
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:07.757133
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:07.757134
+401403877,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:08.160875
+401403877,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:08.160891
+401403877,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:08.160893
+401403877,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:08.160894
+401403877,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:08.160896
+401403877,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:08.160897
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:08.160900
+401403877,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:08.160901
+401403889,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:08.626735
+401403889,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:08.626748
+401403889,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:08.626751
+401403889,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:08.626753
+401403889,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:08.626755
+401403889,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:08.626757
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:08.626762
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:08.626764
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:08.626766
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:08.626768
+401403889,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:09.060911
+401403889,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:09.060920
+401403889,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:09.060922
+401403889,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:09.060923
+401403889,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:09.060925
+401403889,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:09.060926
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:09.060929
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:09.060930
+401403889,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:09.462738
+401403889,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:09.462755
+401403889,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:09.462758
+401403889,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:09.462760
+401403889,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:09.462762
+401403889,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:09.462763
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:09.462767
+401403889,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:09.462769
+401403901,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:09.900767
+401403901,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:09.900788
+401403901,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:09.900792
+401403901,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:09.900794
+401403901,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:09.900797
+401403901,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:09.900800
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:09.900809
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:09.900812
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:09.900816
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:09.900818
+401403901,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:10.335311
+401403901,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:10.335321
+401403901,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:10.335323
+401403901,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:10.335324
+401403901,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:10.335325
+401403901,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:10.335327
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:10.335330
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:10.335332
+401403901,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:10.774009
+401403901,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:10.774024
+401403901,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:10.774026
+401403901,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:10.774028
+401403901,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:10.774029
+401403901,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:10.774031
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:10.774034
+401403901,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:10.774036
+401403913,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:11.253194
+401403913,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:11.253209
+401403913,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:11.253211
+401403913,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:11.253213
+401403913,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:11.253214
+401403913,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:11.253216
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:11.253219
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:11.253220
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:11.253222
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:11.253223
+401403913,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:11.686195
+401403913,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:11.686210
+401403913,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:11.686213
+401403913,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:11.686214
+401403913,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:11.686215
+401403913,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:11.686216
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:11.686220
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:11.686221
+401403913,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:12.132636
+401403913,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:12.132684
+401403913,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:12.132688
+401403913,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:12.132691
+401403913,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:12.132695
+401403913,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:12.132697
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:12.132708
+401403913,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:12.132711
+401403921,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:12.550588
+401403921,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:12.550655
+401403921,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:12.550660
+401403921,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:12.550663
+401403921,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:12.550666
+401403921,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:12.550669
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:12.550678
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:12.550680
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:12.550686
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:12.550688
+401403921,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:12.962926
+401403921,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:12.962939
+401403921,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:12.962941
+401403921,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:12.962943
+401403921,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:12.962945
+401403921,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:12.962947
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:12.962951
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:12.962953
+401403921,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:13.412361
+401403921,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:13.412379
+401403921,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:13.412381
+401403921,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:13.412383
+401403921,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:13.412385
+401403921,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:13.412386
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:13.412390
+401403921,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:13.412392
+401403926,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:13.851505
+401403926,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:13.851517
+401403926,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:13.851520
+401403926,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:13.851521
+401403926,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:13.851523
+401403926,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:13.851525
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:13.851530
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:13.851532
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:13.851535
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:13.851536
+401403926,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:14.292860
+401403926,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:14.292868
+401403926,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:14.292870
+401403926,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:14.292871
+401403926,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:14.292872
+401403926,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:14.292873
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:14.292877
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:14.292878
+401403926,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:14.748927
+401403926,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:14.748943
+401403926,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:14.748946
+401403926,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:14.748948
+401403926,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:14.748950
+401403926,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:14.748952
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:14.748959
+401403926,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:14.748975
+401403930,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:15.194390
+401403930,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:15.194398
+401403930,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:15.194401
+401403930,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:15.194402
+401403930,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:15.194403
+401403930,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:15.194405
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:15.194408
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:15.194410
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:15.194411
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:15.194412
+401403930,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:15.594346
+401403930,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:15.594355
+401403930,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:15.594357
+401403930,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:15.594358
+401403930,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:15.594359
+401403930,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:15.594360
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:15.594363
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:15.594365
+401403930,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:16.054336
+401403930,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:16.054346
+401403930,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:16.054348
+401403930,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:16.054350
+401403930,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:16.054351
+401403930,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:16.054352
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:16.054355
+401403930,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:16.054357
+401403933,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:16.603030
+401403933,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:16.603039
+401403933,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:16.603042
+401403933,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:16.603043
+401403933,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:16.603044
+401403933,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:16.603046
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:16.603049
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:16.603050
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:16.603052
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:16.603053
+401403933,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:17.010062
+401403933,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:17.010071
+401403933,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:17.010073
+401403933,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:17.010074
+401403933,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:17.010076
+401403933,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:17.010077
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:17.010080
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:17.010081
+401403933,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:17.406024
+401403933,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:17.406034
+401403933,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:17.406036
+401403933,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:17.406037
+401403933,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:17.406039
+401403933,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:17.406040
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:17.406043
+401403933,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:17.406045
+401403945,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:17.816916
+401403945,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:17.816938
+401403945,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:17.816941
+401403945,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:17.816942
+401403945,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:17.816944
+401403945,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:17.816945
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:17.816949
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:17.816951
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:17.816953
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:17.816955
+401403945,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:18.250436
+401403945,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:18.250449
+401403945,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:18.250452
+401403945,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:18.250453
+401403945,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:18.250456
+401403945,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:18.250458
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:18.250463
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:18.250465
+401403945,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:18.692636
+401403945,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:18.692648
+401403945,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:18.692651
+401403945,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:18.692653
+401403945,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:18.692655
+401403945,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:18.692656
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:18.692661
+401403945,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:18.692663
+401403953,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:19.152013
+401403953,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:19.152022
+401403953,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:19.152024
+401403953,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:19.152026
+401403953,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:19.152027
+401403953,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:19.152029
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:19.152032
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:19.152033
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:19.152035
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:19.152036
+401403953,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:19.566785
+401403953,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:19.566795
+401403953,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:19.566797
+401403953,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:19.566799
+401403953,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:19.566800
+401403953,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:19.566801
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:19.566804
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:19.566805
+401403953,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:19.991782
+401403953,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:19.991800
+401403953,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:19.991803
+401403953,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:19.991805
+401403953,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:19.991808
+401403953,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:19.991810
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:19.991815
+401403953,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:19.991817
+401403964,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:20.447815
+401403964,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:20.447831
+401403964,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:20.447833
+401403964,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:20.447834
+401403964,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:20.447836
+401403964,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:20.447838
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:20.447842
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:20.447843
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:20.447845
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:20.447847
+401403964,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:20.865375
+401403964,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:20.865392
+401403964,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:20.865394
+401403964,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:20.865396
+401403964,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:20.865397
+401403964,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:20.865398
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:20.865402
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:20.865403
+401403964,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:21.334394
+401403964,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:21.334404
+401403964,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:21.334406
+401403964,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:21.334407
+401403964,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:21.334409
+401403964,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:21.334410
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:21.334413
+401403964,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:21.334414
+401520179,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:21.808509
+401520179,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:21.808519
+401520179,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:21.808521
+401520179,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:21.808522
+401520179,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:21.808525
+401520179,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:21.808526
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:21.808531
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:21.808533
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:21.808534
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:21.808536
+401520179,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:22.251961
+401520179,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:22.251970
+401520179,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:22.251973
+401520179,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:22.251974
+401520179,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:22.251975
+401520179,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:22.251976
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:22.251979
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:22.251980
+401520179,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:22.671903
+401520179,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:22.671912
+401520179,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:22.671914
+401520179,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:22.671915
+401520179,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:22.671917
+401520179,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:22.671918
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:22.671921
+401520179,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:22.671923
+401551780,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:23.111339
+401551780,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:23.111348
+401551780,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:23.111350
+401551780,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:23.111351
+401551780,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:23.111353
+401551780,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:23.111354
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:23.111357
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:23.111359
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:23.111360
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:23.111361
+401551780,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:23.536025
+401551780,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:23.536035
+401551780,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:23.536037
+401551780,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:23.536039
+401551780,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:23.536040
+401551780,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:23.536041
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:23.536045
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:23.536046
+401551780,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:24.010082
+401551780,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:24.010092
+401551780,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:24.010094
+401551780,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:24.010096
+401551780,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:24.010097
+401551780,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:24.010098
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:24.010102
+401551780,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:24.010103
+401520213,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:24.454550
+401520213,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:24.454563
+401520213,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:24.454566
+401520213,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:24.454568
+401520213,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:24.454571
+401520213,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:24.454573
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:24.454578
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:24.454580
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:24.454583
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:24.454585
+401520213,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:24.919383
+401520213,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:24.919396
+401520213,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:24.919398
+401520213,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:24.919399
+401520213,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:24.919401
+401520213,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:24.919402
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:24.919406
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:24.919407
+401520213,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:25.365702
+401520213,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:25.365723
+401520213,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:25.365726
+401520213,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:25.365728
+401520213,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:25.365731
+401520213,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:25.365733
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:25.365741
+401520213,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:25.365743
+401520224,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:25.828684
+401520224,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:25.828695
+401520224,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:25.828698
+401520224,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:25.828700
+401520224,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:25.828703
+401520224,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:25.828704
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:25.828709
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:25.828711
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:25.828714
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:25.828716
+401520224,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:26.296187
+401520224,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:26.296200
+401520224,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:26.296203
+401520224,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:26.296205
+401520224,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:26.296207
+401520224,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:26.296209
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:26.296214
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:26.296216
+401520224,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:26.756315
+401520224,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:26.756326
+401520224,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:26.756328
+401520224,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:26.756330
+401520224,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:26.756331
+401520224,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:26.756332
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:26.756336
+401520224,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:26.756337
+401520269,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:27.180978
+401520269,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:27.180992
+401520269,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:27.180995
+401520269,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:27.180997
+401520269,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:27.180999
+401520269,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:27.181001
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:27.181006
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:27.181008
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:27.181010
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:27.181012
+401520269,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:27.621746
+401520269,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:27.621755
+401520269,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:27.621757
+401520269,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:27.621758
+401520269,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:27.621759
+401520269,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:27.621760
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:27.621764
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:27.621765
+401520269,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:28.031769
+401520269,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:28.031787
+401520269,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:28.031791
+401520269,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:28.031793
+401520269,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:28.031796
+401520269,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:28.031798
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:28.031804
+401520269,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:28.031806
+401520291,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:28.479944
+401520291,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:28.479959
+401520291,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:28.479962
+401520291,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:28.479963
+401520291,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:28.479965
+401520291,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:28.479966
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:28.479970
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:28.479971
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:28.479973
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:28.479974
+401520291,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:28.952830
+401520291,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:28.952839
+401520291,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:28.952841
+401520291,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:28.952842
+401520291,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:28.952844
+401520291,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:28.952845
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:28.952848
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:28.952849
+401520291,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:29.435262
+401520291,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:29.435272
+401520291,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:29.435274
+401520291,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:29.435276
+401520291,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:29.435277
+401520291,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:29.435278
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:29.435282
+401520291,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:29.435283
+401520326,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:30.215590
+401520326,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:30.215607
+401520326,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:30.215610
+401520326,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:30.215612
+401520326,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:30.215614
+401520326,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:30.215616
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:30.215622
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:30.215624
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:30.215627
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:30.215629
+401520326,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:30.769469
+401520326,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:30.769478
+401520326,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:30.769480
+401520326,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:30.769481
+401520326,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:30.769482
+401520326,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:30.769483
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:30.769486
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:30.769488
+401520326,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:31.350717
+401520326,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:31.350728
+401520326,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:31.350730
+401520326,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:31.350732
+401520326,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:31.350733
+401520326,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:31.350734
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:31.350738
+401520326,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:31.350740
+401520333,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:31.869018
+401520333,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:31.869033
+401520333,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:31.869037
+401520333,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:31.869039
+401520333,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:31.869042
+401520333,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:31.869045
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:31.869051
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:31.869053
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:31.869055
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:31.869057
+401520333,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:32.437474
+401520333,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:32.437484
+401520333,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:32.437486
+401520333,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:32.437488
+401520333,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:32.437489
+401520333,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:32.437490
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:32.437493
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:32.437494
+401520333,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:32.882271
+401520333,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:32.882302
+401520333,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:32.882307
+401520333,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:32.882310
+401520333,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:32.882312
+401520333,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:32.882315
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:32.882325
+401520333,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:32.882328
+401520353,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:33.459395
+401520353,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:33.459407
+401520353,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:33.459410
+401520353,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:33.459412
+401520353,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:33.459415
+401520353,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:33.459416
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:33.459421
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:33.459423
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:33.459425
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:33.459427
+401520353,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:35.191615
+401520353,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:35.191679
+401520353,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:35.191681
+401520353,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:35.191682
+401520353,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:35.191683
+401520353,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:35.191684
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:35.191688
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:35.191689
+401520353,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:35.734106
+401520353,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:35.734129
+401520353,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:35.734132
+401520353,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:35.734133
+401520353,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:35.734136
+401520353,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:35.734137
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:35.734142
+401520353,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:35.734144
+401520377,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:36.206965
+401520377,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:36.206974
+401520377,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:36.206976
+401520377,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:36.206978
+401520377,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:36.206979
+401520377,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:36.206980
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:36.206984
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:36.206985
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:36.206987
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:36.206988
+401520377,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:36.645210
+401520377,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:36.645219
+401520377,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:36.645221
+401520377,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:36.645222
+401520377,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:36.645223
+401520377,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:36.645224
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:36.645228
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:36.645229
+401520377,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:37.093078
+401520377,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:37.093088
+401520377,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:37.093091
+401520377,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:37.093092
+401520377,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:37.093094
+401520377,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:37.093095
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:37.093098
+401520377,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:37.093099
+401520391,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:37.535624
+401520391,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:37.535636
+401520391,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:37.535639
+401520391,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:37.535641
+401520391,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:37.535643
+401520391,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:37.535644
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:37.535649
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:37.535651
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:37.535653
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:37.535655
+401520391,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:38.061225
+401520391,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:38.061233
+401520391,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:38.061235
+401520391,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:38.061237
+401520391,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:38.061238
+401520391,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:38.061239
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:38.061243
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:38.061244
+401520391,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:38.499799
+401520391,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:38.499810
+401520391,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:38.499812
+401520391,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:38.499813
+401520391,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:38.499815
+401520391,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:38.499816
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:38.499820
+401520391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:38.499821
+401520419,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:38.951758
+401520419,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:38.951768
+401520419,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:38.951770
+401520419,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:38.951771
+401520419,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:38.951772
+401520419,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:38.951774
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:38.951777
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:38.951779
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:38.951781
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:38.951782
+401520419,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:39.358708
+401520419,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:39.358720
+401520419,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:39.358723
+401520419,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:39.358724
+401520419,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:39.358727
+401520419,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:39.358728
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:39.358733
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:39.358735
+401520419,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:39.773841
+401520419,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:39.773852
+401520419,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:39.773854
+401520419,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:39.773856
+401520419,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:39.773857
+401520419,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:39.773858
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:39.773862
+401520419,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:39.773863
+401520442,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:40.213079
+401520442,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:40.213091
+401520442,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:40.213094
+401520442,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:40.213096
+401520442,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:40.213099
+401520442,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:40.213101
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:40.213107
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:40.213109
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:40.213112
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:40.213114
+401520442,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:40.634506
+401520442,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:40.634515
+401520442,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:40.634517
+401520442,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:40.634519
+401520442,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:40.634520
+401520442,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:40.634521
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:40.634524
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:40.634526
+401520442,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:41.057218
+401520442,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:41.057232
+401520442,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:41.057234
+401520442,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:41.057235
+401520442,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:41.057236
+401520442,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:41.057238
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:41.057241
+401520442,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:41.057242
+401628330,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:41.489504
+401628330,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:41.489518
+401628330,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:41.489520
+401628330,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:41.489522
+401628330,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:41.489523
+401628330,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:41.489524
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:41.489528
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:41.489529
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:41.489531
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:41.489532
+401628330,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:41.941680
+401628330,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:41.941695
+401628330,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:41.941698
+401628330,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:41.941700
+401628330,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:41.941702
+401628330,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:41.941703
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:41.941707
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:41.941708
+401628330,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:42.361170
+401628330,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:42.361185
+401628330,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:42.361187
+401628330,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:42.361189
+401628330,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:42.361190
+401628330,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:42.361191
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:42.361195
+401628330,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:42.361196
+401677177,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:42.825250
+401677177,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:42.825259
+401677177,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:42.825261
+401677177,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:42.825263
+401677177,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:42.825264
+401677177,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:42.825266
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:42.825269
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:42.825270
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:42.825272
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:42.825273
+401677177,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:43.338899
+401677177,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:43.338914
+401677177,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:43.338916
+401677177,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:43.338917
+401677177,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:43.338919
+401677177,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:43.338920
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:43.338924
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:43.338925
+401677177,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:43.796480
+401677177,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:43.796496
+401677177,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:43.796498
+401677177,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:43.796500
+401677177,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:43.796501
+401677177,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:43.796502
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:43.796506
+401677177,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:43.796507
+401628346,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:44.253683
+401628346,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:44.253694
+401628346,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:44.253698
+401628346,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:44.253699
+401628346,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:44.253701
+401628346,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:44.253703
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:44.253706
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:44.253707
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:44.253709
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:44.253711
+401628346,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:44.676976
+401628346,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:44.676986
+401628346,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:44.676988
+401628346,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:44.676989
+401628346,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:44.676990
+401628346,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:44.676991
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:44.676995
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:44.676996
+401628346,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:45.133369
+401628346,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:45.133396
+401628346,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:45.133399
+401628346,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:45.133407
+401628346,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:45.133409
+401628346,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:45.133411
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:45.133419
+401628346,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:45.133421
+401628360,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:45.581985
+401628360,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:45.582005
+401628360,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:45.582007
+401628360,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:45.582009
+401628360,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:45.582011
+401628360,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:45.582013
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:45.582017
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:45.582019
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:45.582021
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:45.582023
+401628360,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:46.022939
+401628360,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:46.022953
+401628360,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:46.022956
+401628360,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:46.022958
+401628360,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:46.022959
+401628360,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:46.022961
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:46.022964
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:46.022966
+401628360,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:46.460174
+401628360,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:46.460188
+401628360,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:46.460191
+401628360,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:46.460192
+401628360,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:46.460193
+401628360,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:46.460194
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:46.460198
+401628360,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:46.460199
+401628369,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:46.904895
+401628369,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:46.904911
+401628369,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:46.904913
+401628369,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:46.904915
+401628369,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:46.904916
+401628369,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:46.904918
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:46.904922
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:46.904924
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:46.904926
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:46.904928
+401628369,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:47.374045
+401628369,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:47.374060
+401628369,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:47.374062
+401628369,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:47.374063
+401628369,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:47.374065
+401628369,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:47.374066
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:47.374069
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:47.374070
+401628369,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:47.820680
+401628369,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:47.820698
+401628369,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:47.820701
+401628369,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:47.820702
+401628369,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:47.820704
+401628369,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:47.820705
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:47.820708
+401628369,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:47.820709
+401628379,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:48.280327
+401628379,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:48.280342
+401628379,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:48.280344
+401628379,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:48.280345
+401628379,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:48.280347
+401628379,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:48.280349
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:48.280353
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:48.280355
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:48.280357
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:48.280359
+401628379,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:48.716597
+401628379,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:48.716632
+401628379,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:48.716635
+401628379,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:48.716637
+401628379,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:48.716638
+401628379,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:48.716639
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:48.716644
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:48.716645
+401628379,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:49.124075
+401628379,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:49.124090
+401628379,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:49.124092
+401628379,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:49.124094
+401628379,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:49.124095
+401628379,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:49.124096
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:49.124100
+401628379,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:49.124102
+401628391,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:49.573432
+401628391,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:49.573441
+401628391,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:49.573444
+401628391,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:49.573445
+401628391,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:49.573447
+401628391,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:49.573448
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:49.573452
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:49.573454
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:49.573455
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:49.573456
+401628391,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:49.994411
+401628391,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:49.994426
+401628391,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:49.994428
+401628391,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:49.994429
+401628391,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:49.994431
+401628391,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:49.994432
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:49.994435
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:49.994437
+401628391,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:50.417826
+401628391,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:50.417843
+401628391,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:50.417846
+401628391,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:50.417847
+401628391,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:50.417848
+401628391,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:50.417850
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:50.417853
+401628391,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:50.417855
+401628397,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:50.874141
+401628397,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:50.874156
+401628397,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:50.874158
+401628397,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:50.874160
+401628397,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:50.874161
+401628397,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:50.874162
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:50.874165
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:50.874167
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:50.874168
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:50.874169
+401628397,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:51.305171
+401628397,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:51.305186
+401628397,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:51.305189
+401628397,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:51.305190
+401628397,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:51.305192
+401628397,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:51.305193
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:51.305197
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:51.305198
+401628397,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:51.754372
+401628397,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:51.754389
+401628397,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:51.754391
+401628397,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:51.754392
+401628397,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:51.754394
+401628397,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:51.754395
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:51.754398
+401628397,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:51.754399
+401628412,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:52.194857
+401628412,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:52.194872
+401628412,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:52.194874
+401628412,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:52.194876
+401628412,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:52.194877
+401628412,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:52.194879
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:52.194883
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:52.194884
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:52.194886
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:52.194887
+401628412,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:52.629915
+401628412,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:52.629934
+401628412,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:52.629937
+401628412,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:52.629940
+401628412,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:52.629942
+401628412,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:52.629944
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:52.629949
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:52.629951
+401628412,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:53.086716
+401628412,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:53.086732
+401628412,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:53.086735
+401628412,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:53.086736
+401628412,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:53.086738
+401628412,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:53.086740
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:53.086743
+401628412,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:53.086744
+401628416,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:53.518604
+401628416,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:53.518614
+401628416,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:53.518616
+401628416,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:53.518618
+401628416,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:53.518620
+401628416,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:53.518621
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:53.518625
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:53.518626
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:53.518628
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:53.518629
+401628416,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:53.936767
+401628416,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:53.936787
+401628416,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:53.936790
+401628416,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:53.936792
+401628416,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:53.936794
+401628416,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:53.936796
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:53.936800
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:53.936802
+401628416,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:54.337491
+401628416,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:54.337505
+401628416,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:54.337507
+401628416,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:54.337509
+401628416,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:54.337510
+401628416,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:54.337511
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:54.337515
+401628416,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:54.337516
+401628421,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:54.783122
+401628421,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:54.783174
+401628421,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:54.783180
+401628421,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:54.783183
+401628421,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:54.783188
+401628421,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:54.783191
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:54.783199
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:54.783203
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:54.783208
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:54.783212
+401628421,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:55.260193
+401628421,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:55.260206
+401628421,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:55.260209
+401628421,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:55.260210
+401628421,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:55.260212
+401628421,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:55.260213
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:55.260216
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:55.260218
+401628421,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:55.690558
+401628421,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:55.690579
+401628421,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:55.690582
+401628421,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:55.690584
+401628421,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:55.690586
+401628421,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:55.690588
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:55.690593
+401628421,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:55.690595
+401628435,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:56.127472
+401628435,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:56.127488
+401628435,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:56.127490
+401628435,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:56.127492
+401628435,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:56.127494
+401628435,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:56.127495
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:56.127499
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:56.127501
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:56.127503
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:56.127505
+401628435,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:56.560633
+401628435,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:56.560647
+401628435,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:56.560649
+401628435,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:56.560650
+401628435,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:56.560651
+401628435,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:56.560652
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:56.560656
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:56.560657
+401628435,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:56.979380
+401628435,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:56.979403
+401628435,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:56.979406
+401628435,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:56.979408
+401628435,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:56.979410
+401628435,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:56.979412
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:56.979418
+401628435,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:56.979419
+401628446,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:57.427508
+401628446,Tennessee Volunteers,Georgia Bulldogs,spreads,DraftKings,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:57.427518
+401628446,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:57.427520
+401628446,Tennessee Volunteers,Georgia Bulldogs,spreads,FanDuel,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:57.427521
+401628446,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Georgia Bulldogs,-110,-6.5,2025-09-07T14:58:57.427523
+401628446,Tennessee Volunteers,Georgia Bulldogs,spreads,BetMGM,Tennessee Volunteers,-110,6.5,2025-09-07T14:58:57.427524
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Middle Tennessee Blue Raiders,100,7.0,2025-09-07T14:58:57.427528
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,DraftKings,Nevada Wolf Pack,-120,-7.0,2025-09-07T14:58:57.427529
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Middle Tennessee Blue Raiders,-110,7.5,2025-09-07T14:58:57.427531
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,spreads,FanDuel,Nevada Wolf Pack,-110,-7.5,2025-09-07T14:58:57.427532
+401628446,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Over,-110,50.5,2025-09-07T14:58:57.867668
+401628446,Tennessee Volunteers,Georgia Bulldogs,totals,DraftKings,Under,-110,50.5,2025-09-07T14:58:57.867684
+401628446,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Over,-105,50.5,2025-09-07T14:58:57.867686
+401628446,Tennessee Volunteers,Georgia Bulldogs,totals,FanDuel,Under,-115,50.5,2025-09-07T14:58:57.867688
+401628446,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Over,-110,50.5,2025-09-07T14:58:57.867690
+401628446,Tennessee Volunteers,Georgia Bulldogs,totals,BetMGM,Under,-110,50.5,2025-09-07T14:58:57.867691
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Over,-110,46.5,2025-09-07T14:58:57.867695
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,totals,FanDuel,Under,-110,46.5,2025-09-07T14:58:57.867697
+401628446,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Georgia Bulldogs,-238,,2025-09-07T14:58:58.292610
+401628446,Tennessee Volunteers,Georgia Bulldogs,h2h,DraftKings,Tennessee Volunteers,195,,2025-09-07T14:58:58.292627
+401628446,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Georgia Bulldogs,-230,,2025-09-07T14:58:58.292629
+401628446,Tennessee Volunteers,Georgia Bulldogs,h2h,FanDuel,Tennessee Volunteers,188,,2025-09-07T14:58:58.292631
+401628446,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Georgia Bulldogs,-250,,2025-09-07T14:58:58.292633
+401628446,Tennessee Volunteers,Georgia Bulldogs,h2h,BetMGM,Tennessee Volunteers,200,,2025-09-07T14:58:58.292635
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Middle Tennessee Blue Raiders,230,,2025-09-07T14:58:58.292639
+401628446,Nevada Wolf Pack,Middle Tennessee Blue Raiders,h2h,FanDuel,Nevada Wolf Pack,-285,,2025-09-07T14:58:58.292643
