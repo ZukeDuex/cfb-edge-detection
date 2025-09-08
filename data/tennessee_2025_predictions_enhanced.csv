@@ -1,0 +1,13 @@
+week,home_team,away_team,completed,home_points,away_points,actual_spread,tennessee_actual_spread,is_home_game,is_conference_game,is_neutral_site,is_postseason,is_early_season,is_mid_season,is_late_season,tennessee_elo,opponent_elo,elo_difference,attendance,season,predicted_spread
+1,Tennessee,Chattanooga,True,45.0,0.0,45.0,45.0,1,1,0,0,1,0,0,1800,1200,600,100000,2025,46.32
+2,Tennessee,NC State,True,35.0,14.0,21.0,21.0,1,1,0,0,1,0,0,1800,1600,200,100000,2025,22.13
+3,Kentucky,Tennessee,True,7.0,28.0,-21.0,21.0,0,1,0,0,1,0,0,1800,1500,300,100000,2025,19.3
+4,Tennessee,Ole Miss,False,,,,,1,1,0,0,1,0,0,1800,1700,100,100000,2025,19.49
+5,Alabama,Tennessee,False,,,,,0,1,0,0,0,1,0,1800,1900,-100,100000,2025,17.9
+6,Tennessee,South Carolina,False,,,,,1,1,0,0,0,1,0,1800,1500,300,100000,2025,19.48
+7,Tennessee,Arkansas,False,,,,,1,1,0,0,0,1,0,1800,1400,400,100000,2025,30.67
+8,Tennessee,Florida,False,,,,,1,1,0,0,0,1,0,1800,1600,200,100000,2025,22.33
+9,Tennessee,Georgia,False,,,,,1,1,0,0,0,0,1,1800,1900,-100,100000,2025,17.26
+10,Tennessee,Vanderbilt,False,,,,,1,1,0,0,0,0,1,1800,1200,600,100000,2025,40.58
+11,Missouri,Tennessee,False,,,,,0,1,0,0,0,0,1,1800,1600,200,100000,2025,23.06
+12,Tennessee,Texas A&M,False,,,,,1,1,0,0,0,0,1,1800,1700,100,100000,2025,15.9
