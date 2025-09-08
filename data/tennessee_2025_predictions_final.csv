@@ -1,0 +1,13 @@
+week,home_team,away_team,completed,home_points,away_points,actual_spread,tennessee_actual_spread,predicted_spread
+1,Tennessee,Chattanooga,True,45.0,0.0,45.0,45.0,44.2
+2,Tennessee,NC State,True,35.0,14.0,21.0,21.0,22.3
+3,Kentucky,Tennessee,True,7.0,28.0,-21.0,21.0,18.9
+4,Tennessee,Ole Miss,False,,,,,17.3
+5,Alabama,Tennessee,False,,,,,12.8
+6,Tennessee,South Carolina,False,,,,,20.8
+7,Tennessee,Arkansas,False,,,,,34.8
+8,Tennessee,Florida,False,,,,,20.8
+9,Tennessee,Georgia,False,,,,,14.2
+10,Tennessee,Vanderbilt,False,,,,,39.0
+11,Missouri,Tennessee,False,,,,,18.1
+12,Tennessee,Texas A&M,False,,,,,13.3
